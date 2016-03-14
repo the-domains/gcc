@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Thanks for being a part of the Gwinnett Community Church worship choir for Easter Sunday, 2016! You can click below to download your music. The music will download in a\_"
-datePublished: '2016-03-14T17:08:11.575Z'
-dateModified: '2016-03-14T17:08:07.140Z'
+description: 'Thanks for being a part of the Gwinnett Community Church worship choir for Easter Sunday, 2016! You can click below to get your music.'
+datePublished: '2016-03-14T17:10:19.660Z'
+dateModified: '2016-03-14T17:08:19.212Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-14-thanks-for-being-a-part-of-the-gwinnett-community-church-wor.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-thanks-for-being-a-part-of-the-gwinnett-community-church-wor.md
-published: true
 url: thanks-for-being-a-part-of-the-gwinnett-community-church-wor/index.html
 _type: Article
 
