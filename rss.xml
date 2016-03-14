@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[gcc]]></title>
+        <description><![CDATA[gcc]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Mar 2016 17:08:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Thanks for being a part of the Gwinnett Community Church worship choir for Easter Sunday, 2016! You can click below to get your music.</p>]]></description>
+            <link>undefinedthanks-for-being-a-part-of-the-gwinnett-community-church-wor/index.html</link>
+            <guid isPermaLink="false">fe5a75a1-e04d-4b8f-84a5-141de2ba0375</guid>
+            <pubDate>Mon, 14 Mar 2016 17:08:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
